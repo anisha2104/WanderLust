@@ -1,5 +1,7 @@
-*.csharp linguist-detectable=false  
-*.java linguist-detectable=false  
-*.js linguist-detectable=true  
-*.html linguist-detectable=true  
-*.xml linguist-detectable=false 
+# *.csharp linguist-detectable=false  
+# *.java linguist-detectable=false  
+# *.js linguist-detectable=true  
+# *.html linguist-detectable=true  
+# *.xml linguist-detectable=false 
+
+*.CSS linguist-detectable=JavaScript
