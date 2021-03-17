@@ -4,4 +4,4 @@
 # *.html linguist-detectable=true  
 # *.xml linguist-detectable=false 
 
-*.CSS linguist-detectable=JavaScript
+*.html linguist-detectable=JavaScript
